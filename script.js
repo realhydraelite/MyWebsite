@@ -6,7 +6,9 @@ function betaweb() {
   var rightcode = 1342;
   if (enterright == rightcode) {
     alert("welcome to the beta tester.");
-  } else {
+  }else if(enterright=="james"){
+    alert("welcome admin:james");
+  }else {
     window.onload(window.close());
   }
 }
