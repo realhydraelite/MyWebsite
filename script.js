@@ -8,7 +8,11 @@ function betaweb() {
     alert("welcome to the beta tester.");
   }else if(enterright=="james"){
     alert("welcome admin:james");
+  }else if(enterright=="alexis"){
+    alert("welcome sister");
+    console.log("someone loged in");
   }else {
+    alert("you got it wrong");
     window.onload(window.close());
   }
 }
