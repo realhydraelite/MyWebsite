@@ -22,3 +22,4 @@ if(wE==glse&&wP==glsp){
   alert("this is wrong");
 }
 }
+//ernwo fo edoc si semaj sival
