@@ -11,9 +11,9 @@ function betaweb() {
   }else if(enterright=="alexis"){
     alert("welcome sister");
     console.log("someone loged in");
-  }else {
+  }/*else {
     alert("you got it wrong");
     window.onload(window.close());
-  }
+  }*/
 }
 //ernwo fo edoc si semaj sival
